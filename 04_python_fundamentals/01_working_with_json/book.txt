@@ -1,0 +1,12 @@
+{
+    "anon": {
+        "name": "Anon Bianco",
+        "address": "Bians Niche, South of Amala Convent",
+        "phone": 9489589584
+    },
+    "anne": {
+        "name": "Anne Biancy",
+        "address": "Bians Niche, South of Amala Convent",
+        "phone": 9361607439
+    }
+}
